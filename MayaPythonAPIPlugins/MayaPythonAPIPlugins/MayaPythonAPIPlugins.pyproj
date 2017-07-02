@@ -24,7 +24,6 @@
     <Compile Include="callback.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="circusDPNode.py" />
     <Compile Include="fxCommand.py">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +33,9 @@
     <Compile Include="MayaPythonAPIPlugins.py" />
     <Compile Include="MIT.py" />
     <Compile Include="openGlLocator.py" />
+    <Compile Include="printSceneObject.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="RippleNode.py" />
     <Compile Include="RippleNodeAccessory.py" />
     <Compile Include="ruff.py" />
